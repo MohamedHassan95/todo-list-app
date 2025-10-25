@@ -23,10 +23,7 @@ A simple and elegant To-Do List application built using **HTML, CSS, and JavaScr
 ## 💡 About
 This project was built as part of my front-end development practice to strengthen my JavaScript and CSS skills.
 
----
 
 ✨ *Designed and developed by Mohamed Hassan*
 
 
-# todo-list-app
-Simple and elegant To-Do List app with dark theme and local storage support.
